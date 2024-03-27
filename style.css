@@ -1,0 +1,100 @@
+/* CSS HEX */
+:root {
+    --sunglow: #ffcb47ff;
+    --battleship-gray: #928779ff;
+    --indigo-dye: #344966ff;
+    --vista-blue: #80a4edff;
+    --emerald: #16c172ff;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0.5dvh;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    background-color: var(--vista-blue);
+    height: 15dvh;
+    width: 100dvw;
+    font-size: medium;
+    padding: 0.25em;
+}
+
+h2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    border-radius: 0.5em;
+    margin-left: 0.5em;
+    background-color: white;
+}
+
+nav > a {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* flex-direction: column; */
+    background-color: var(--vista-blue);
+    padding: 0.25em;
+    border-radius: 0.5em;
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+
+nav :hover {
+    background-color: var(--emerald); 
+}
+
+main {
+    min-height: 85dvh;
+    margin-top: 1.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main > h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+main > img {
+    height: 20dvh;
+    width: auto;
+    margin: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--sunglow);
+    object-fit: cover;
+}
+
+/* a:link {
+    text-decoration: none;
+    color: black;
+} */
+
+footer {
+    color:rgba(0, 0, 0, 0.719);
+    font-size: x-small;
+}

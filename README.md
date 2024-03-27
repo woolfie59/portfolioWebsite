@@ -3,10 +3,15 @@
 ## Sitemap
 
   - Home
-    - About
-    - Projects
-      - Cool website
-      -  Cool database
-      - Cool project
-    - Contact
-    - Skills/Experience
+    - projects
+      - project 1
+      - project 2
+      - project 3
+    - contact
+    - about
+    - blog
+      - blog post 1
+      - blog post 2
+      - blog post 3
+      - blog post 4
+      - blog post 5
