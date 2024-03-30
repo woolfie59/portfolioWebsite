@@ -61,10 +61,6 @@ nav > a:hover:not(.active) {
     border-radius: 0.3em;
 }
 
-nav > .active {
-    color: var(--sunglow);
-}
-
 main {
     min-height: 85dvh;
     display: flex;
@@ -90,7 +86,7 @@ main > img[src="./docs/creatorpic2.jpg"] {
     height: auto;
     padding: 0.5em;
     margin: 2em;
-    border-radius: 0.3em;
+    border-radius: 0.5em;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -109,17 +105,20 @@ main > img[src="./docs/creatorpic2.jpg"] {
     padding: 0.5em;
     text-align: center;
     border: 0.5px solid var(--indigo-dye);
-    border-radius: 0.3em;
+    border-radius: 0.5em;
     background-color: var(--sunglow);
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     max-width: 450px;
+    box-shadow: 0.2em 0.2em var(--indigo-dye);
 }
 
 .card:hover {
     background-color: var(--emerald);
+    box-shadow: 0 0;
+    transition: 0.5s;
 }
 #card {
     display: flex;
@@ -141,19 +140,16 @@ img[src="./docs/project1.jpg"] {
     height: 200px;
     width: 350px;
     object-fit: cover;
-    border-radius: 0.3em;
 }
 img[src="./docs/project2.jpg"] {
     height: 200px;
     width: 350px;
     object-fit: cover;
-    border-radius: 0.3em;
 }
 img[src="./docs/project3.jpg"] {
     height: 200px;
     width: 350px;
     object-fit: cover;
-    border-radius: 0.3em;
 }
 
 
@@ -175,7 +171,7 @@ img[src="./docs/creatorpic3.JPG"] {
     width: 100%;
     height: auto;
     object-fit: cover;
-    border-radius: 0.3em;
+    border-radius: 0.5em;
     max-width: 400px;
     padding: 0.5em;
     margin: 2em;
@@ -194,6 +190,7 @@ img[src="./docs/creatorpic3.JPG"] {
     color: var(--indigo-dye);
     padding: 5px 10px;
     border-radius: 0.3em;
+    box-shadow: 0.2em 0.2em var(--indigo-dye);
 
 }
 
@@ -201,6 +198,7 @@ img[src="./docs/creatorpic3.JPG"] {
     font-weight: bold;
     text-decoration: underline;
     background-color: var(--emerald);
+    box-shadow: 0 0;
 }
 
 
@@ -235,7 +233,7 @@ img[src="./docs/creatorpic1.JPG"] {
     width: 100%;
     height: auto;
     object-fit: cover;
-    border-radius: 0.3em;
+    border-radius: 0.5em;
     max-width: 400px;
     padding: 0.5em;
     margin: 2em;
@@ -262,31 +260,30 @@ img[src="./docs/blogpost1.jpg"] {
     height: 200px;
     width: 350px;
     object-fit: cover;
-    border-radius: 0.3em;
 }
 img[src="./docs/blogpost2.jpg"] {
     height: 200px;
     width: 350px;
     object-fit: cover;
-    border-radius: 0.3em;
 }
 img[src="./docs/blogpost3.jpg"] {
     height: 200px;
     width: 350px;
     object-fit: cover;
-    border-radius: 0.3em;
 }
 img[src="./docs/blogpost4.jpg"] {
     height: 200px;
     width: 350px;
     object-fit: cover;
-    border-radius: 0.3em;
 }
 img[src="./docs/blogpost5.jpg"] {
     height: 200px;
     width: 350px;
     object-fit: cover;
-    border-radius: 0.3em;
+}
+
+h6 {
+    color: rgb(159, 117, 10)
 }
 
 
