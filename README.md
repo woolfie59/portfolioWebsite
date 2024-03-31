@@ -37,30 +37,30 @@ About page:  the about me page has a central picture of me with a paragraph to 
 
 Blog page: the blog page looks similar to the projects page. It displays cards for each blog post, which are central to the page. On the mobile view these are listed vertically and the wider the user's screen is, the more cards are displayed side by side horizontally.
 
-- Wireframe for index (home) page - desktop and mobile views: [Wireframes_index.pdf](https://github.com/woolfie59/portfolioWebsite/files/14813578/Wireframes_index.pdf)
-- Wireframe for projects page - desktop and mobile views: [Wireframes_projects.pdf](https://github.com/woolfie59/portfolioWebsite/files/14813577/Wireframes_projects.pdf)
-- Wireframe for contact page - desktop and mobile views: [Wireframes_contact.pdf](https://github.com/woolfie59/portfolioWebsite/files/14813576/Wireframes_contact.pdf)
-- Wireframe for about page - desktop and mobile views: [Wireframes_about.pdf](https://github.com/woolfie59/portfolioWebsite/files/14813574/Wireframes_about.pdf)
-- Wireframe for blog page - desktop and mobile views: [Wireframes_blog.pdf](https://github.com/woolfie59/portfolioWebsite/files/14813575/Wireframes_blog.pdf)
+- Wireframe for index (home) page - desktop and mobile views: [Wireframes_index.pdf](./docs/Wireframes_index.pdf)
+- Wireframe for projects page - desktop and mobile views: [Wireframes_projects.pdf](./docs/Wireframes_projects.pdf)
+- Wireframe for contact page - desktop and mobile views: [Wireframes_contact.pdf](./docs/Wireframes_contact.pdf)
+- Wireframe for about page - desktop and mobile views: [Wireframes_about.pdf](./docs/Wireframes_about.pdf)
+- Wireframe for blog page - desktop and mobile views: [Wireframes_blog.pdf](./docs/Wireframes_blog.pdf)
 
 ## Screenshots of completed website
-- Screenshot of index page - desktop view: [home_desktop.pdf](https://github.com/woolfie59/portfolioWebsite/files/14811755/home_desktop.pdf)
-- Screenshot of index page - mobile view: [home_mobile.pdf](https://github.com/woolfie59/portfolioWebsite/files/14811754/home_mobile.pdf)
-- Screenshot of projects page - desktop view: [projects_desktop.pdf](https://github.com/woolfie59/portfolioWebsite/files/14811758/projects_desktop.pdf)
-- Screenshot of projects page - mobile view: [projects_mobile.pdf](https://github.com/woolfie59/portfolioWebsite/files/14811756/projects_mobile.pdf)
-- Screenshot of contact page - desktop view: [contact_desktop.pdf](https://github.com/woolfie59/portfolioWebsite/files/14811761/contact_desktop.pdf)
-- Screenshot of contact page - mobile view: [contact_mobile.pdf](https://github.com/woolfie59/portfolioWebsite/files/14811760/contact_mobile.pdf)
-- Screenshot of about page - desktop view: [about_desktop.pdf](https://github.com/woolfie59/portfolioWebsite/files/14811763/about_desktop.pdf)
-- Screenshot of about page - mobile view: [about_mobile.pdf](https://github.com/woolfie59/portfolioWebsite/files/14811762/about_mobile.pdf)
-- Screenshot of blog page - desktop view: [blog_desktop.pdf](https://github.com/woolfie59/portfolioWebsite/files/14811765/blog_desktop.pdf)
-- Screenshot of blog page - mobile view: [blog_mobile.pdf](https://github.com/woolfie59/portfolioWebsite/files/14811764/blog_mobile.pdf)
+- Screenshot of index page - desktop view: [home_desktop.pdf](./docs/home_desktop.pdf)
+- Screenshot of index page - mobile view: [home_mobile.pdf](./docs/home_mobile.pdf)
+- Screenshot of projects page - desktop view: [projects_desktop.pdf](./docs/projects_desktop.pdf)
+- Screenshot of projects page - mobile view: [projects_mobile.pdf](./docs/projects_mobile.pdf)
+- Screenshot of contact page - desktop view: [contact_desktop.pdf](./docs/contact_desktop.pdf)
+- Screenshot of contact page - mobile view: [contact_mobile.pdf](./docs/contact_mobile.pdf)
+- Screenshot of about page - desktop view: [about_desktop.pdf](./docs/about_desktop.pdf)
+- Screenshot of about page - mobile view: [about_mobile.pdf](./docs/about_mobile.pdf)
+- Screenshot of blog page - desktop view: [blog_desktop.pdf](./docs/blog_desktop.pdf)
+- Screenshot of blog page - mobile view: [blog_mobile.pdf](./docs/blog_mobile.pdf)
 
 ## Sitemap
 The sitemap displays the overview of the website, starting with the home page. As mentioned previously, the navigation bar is accessible from all pages on the site. This is why the sitemap shows the home page as part of the first row of pages as well as at the top of the map. The red colour of the navbar button is to draw the user to view the bubble at the top of the map which explains the navbar's accessibility.
 
 From the projects box is a branch to each of the three project pages. But as a reminder these are not currently active due to the cards being placeholders. This is the same for the blog posts boxes. Each card on the blog page represents one of the boxes on the site map as these would have individual pages if something was actually published.
 
-- Sitemap: [Sitemap.pdf](https://github.com/woolfie59/portfolioWebsite/files/14813572/Sitemap.pdf)
+- Sitemap: [Sitemap.pdf](./docs/Sitemap.pdf)
 
 ## Target audience
 The target audience for this website portfolio is a potential employer and to use as a networking tool. I imagine a startup or a younger company with more free views rather than a tech giant. Hopefully with a recruiter who has a bit of a sense of humour or does not have a completely strict view on things.
