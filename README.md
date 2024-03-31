@@ -18,7 +18,7 @@ The about me page displays a section each for my background and skills. The list
 
 The final page on the site is a blog summary page. Here the user can find a summary of recent blog posts. Keeping with the theme of the website, when the user hovers over each card displaying a blog post, the yellow colour changes to green and the small box-shadow is removed to highlight which post is selected. Each blog post has a relevant picture as well as a publication date for that post. These cards can redirect the user to each blog posts page with the full article. The current page does not have this feature however, as these are placeholder posts to display the view only. This page has also been made with flexbox and depending on the user's screen size, the cards may show all in a row or be in a column view if the user's screen is small enough.
 
-The color scheme I chose includes a total of six colours. Simple black (#000000) and white (#ffffff), as well as vista blue (#80a4edff), sunglow yellow (#ffcb47ff), emerald green (#16c172ff), and indigo-dye blue (#344966ff). I wanted to make the site colourful in a fun way to engage the user. Happy colours which unbeknownst to the user also represented me. But I wanted to make sure that the user does not feel overwhelmed with colours much too bright or too many colours covering the same areas or large areas. With the base of black and white, the colourful components of each page, generally, are intractable or highlights elements.
+The color scheme I chose includes a total of six colours. Simple black (#000000) and white (#ffffff), as well as vista blue (#80a4edff), sunglow yellow (#ffcb47ff), emerald green (#16c172ff), and indigo-dye blue (#344966ff). I wanted to make the site colourful in a fun way to engage the user. Happy colours which unbeknownst to the user also represented me. But I wanted to make sure that the user does not feel overwhelmed with too many or too bright colours covering large areas at once. With the base of black and white, the colourful components of each page, generally, are interactable or highlights elements.
 
 ## Wireframes
 I created the wireframes before starting to build my website and they were very helpful along the process. They were great to refer back to while I was building to remind me of my design ideas, but also, while I was creating the wireframes, it helped me visualise each page with the lay out I wanted. Some elements changed while I was creating the wireframes; for example, I wanted to include a custom logo in the top right corner of the header to balance out the visual with my full name on the left. However, I was quite happy with keeping just my name in the header, which in itself became a logo of sorts as the portfolio is to showcase me. In the future I might add a logo to the right however, to bulk up the page a bit content wise. I wanted to keep everything simple for my very first website build and therefore I removed the logo before finalising the wireframes. 
@@ -60,11 +60,10 @@ The sitemap displays the overview of the website, starting with the home page. A
 
 From the projects box is a branch to each of the three project pages. But as a reminder these are not currently active due to the cards being placeholders. This is the same for the blog posts boxes. Each card on the blog page represents one of the boxes on the site map as these would have individual pages if something was actually published.
 
-[Sitemap.pdf](https://github.com/woolfie59/portfolioWebsite/files/14813572/Sitemap.pdf)
+- Sitemap: [Sitemap.pdf](https://github.com/woolfie59/portfolioWebsite/files/14813572/Sitemap.pdf)
 
 ## Target audience
-
-The target audience for this website portfolio is a potential employer and to use as a tool in networking. I imagine a startup or a younger company with more free views rather than a tech giant. Hopefully with a recruiter who has a bit of a sense of humour or does not have a completely strict view on things.
+The target audience for this website portfolio is a potential employer and to use as a networking tool. I imagine a startup or a younger company with more free views rather than a tech giant. Hopefully with a recruiter who has a bit of a sense of humour or does not have a completely strict view on things.
 
 ## Tech stack
   - HTML (html5)
