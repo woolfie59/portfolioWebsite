@@ -2,6 +2,7 @@
 
 - Deployed page: https://main--sophiewoolford.netlify.app/
 - Github repository: https://github.com/woolfie59/portfolioWebsite
+- Presentation: https://vimeo.com/929190001/1d11a857ea?share=copy
 
 ## Purpose
 The purpose of this project is to deploy a website which works as a portfolio. This is to showcase my skills, my experience and past and current projects, which might all be relevant to a potential employer within the IT industry. As well as technical aspects, I am also showcasing other more personal information which is intended to give the user a better idea of me as a person, including personal interests and other personal projects and experiences which might make me a good fit in the company.
